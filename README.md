@@ -1,8 +1,8 @@
-# UnitTestingMsTestIntro
+# UnitTestingMsTestIntro 🚀
 
 Este proyecto es un ejemplo básico de cómo implementar pruebas unitarias utilizando MSTest en C#.
 
-## Estructura del Proyecto
+## Estructura del Proyecto 📁
 
 ```plaintext
 UnitTestingMsTestIntro/
@@ -12,7 +12,7 @@ UnitTestingMsTestIntro/
 ├── Tests/
 │ ├── CalcTests.cs
 │ ├── CollectionSampleTests.cs
-
+````
 
 - **UnitTestingMsTestIntro**: Contiene la lógica de negocio.
   - `Calcs.cs`: Contiene métodos para operaciones matemáticas básicas como sumar, restar y multiplicar.
@@ -22,12 +22,12 @@ UnitTestingMsTestIntro/
   - `CalcTests.cs`: Pruebas unitarias para verificar las operaciones matemáticas en `Calcs.cs`.
   - `CollectionSampleTests.cs`: Pruebas unitarias para verificar la manipulación de colecciones en `CollectionsSample.cs`.
 
-## Requisitos
+## Requisitos 🛠️
 
 - .NET SDK
 - MSTest
 
-## Descripción General del Código
+## Descripción General del Código 📝
 
 ### Calcs.cs
 Define métodos estáticos para realizar operaciones matemáticas básicas:
@@ -51,5 +51,6 @@ Contiene pruebas unitarias para el método `GetCustomer` en `CollectionsSample.c
 - `GetCustomer_ShouldThrowIndexOutofRangeException()`: Verifica que se lance una excepción cuando el índice está fuera de rango.
 
 ---
+
 
 
