@@ -2,6 +2,10 @@
 
 Este proyecto es un ejemplo básico de cómo implementar pruebas unitarias utilizando MSTest en C#.
 
+## ¿Qué es MSTest? 🧪
+
+MSTest es un framework de pruebas unitarias para .NET. Permite a los desarrolladores escribir pruebas para su código y verificar que las funcionalidades se comporten como se espera. MSTest es una herramienta poderosa para asegurar la calidad y la estabilidad del código a lo largo del tiempo.
+
 ## Estructura del Proyecto 📁
 
 ```plaintext
